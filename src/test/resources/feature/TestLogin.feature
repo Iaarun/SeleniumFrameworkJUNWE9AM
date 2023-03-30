@@ -11,3 +11,6 @@ Examples:
 |username         |password  |
 |"cbatest7@gmail.com"|"cba@test"|
 
+
+Scenario: error should be displayed for incorrect password
+
