@@ -1,5 +1,4 @@
 # SeleniumFrameworkJUNWE9AM
 
-This is your test project
-updating the readme file
-testupdated
+clearing all data for the cleaning purpose
+
